@@ -1,0 +1,115 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+   
+}
+
+
+.box{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./ilan.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+
+    padding: 50px;
+    font-size: 30px;
+
+}
+
+#x{
+    size: 90px;
+    color: rgb(192, 143, 97);
+    font-size: 60px;
+    font-weight: 50px;
+   
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    margin-top: 50px;
+}
+
+#i{
+    color: rgb(248, 203, 152);
+    text-shadow: 0 3px 3px  rgb(217, 127, 54);
+    font-style: italic;
+    
+}
+
+.buton{
+    color: aliceblue;
+    background-color: rgb(131, 85, 25);
+    font-size: 20px;
+    border-radius: 8px;
+    height: 50px;
+    width: 100px;
+    box-shadow: 0 8px 16px 0 rgba(207, 143, 101, 0.2), 0 6px 20px 0 rgba(192, 98, 21, 0.19);
+    margin-top: 100px;
+    margin-left: 700px;   
+
+}
+
+body{
+    background-color: rgb(219, 206, 134);
+}
+.z img {
+    
+    width: 800px;
+}
+
+#r{
+    text-shadow: 3px 3px 2px;
+    
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#d{
+
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+#deri{
+    font-weight: bold;
+
+}
+
+#zeher{
+    color: black;
+    font-size: 20px;
+
+}
+
+#zr{
+    font-weight: bold;
+    text-shadow: 3px 2px 2px;
+    color: black;
+    font-size: 50px;
+    
+}
+
+buton:hover {
+    color: aqua;
+   
+  }
